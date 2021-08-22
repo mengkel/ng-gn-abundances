@@ -9,7 +9,7 @@ plot_pg_abunds_model.ipynb file describes the isotonic abundances distribution i
 If you would like to see the isotonic abundances distribution computed from the proton separation energy (REACLIB 2.0 datatbase), you can run the notebook plot_pg_abunds_with_sp_data.ipynb or you can run  this on [Google colab](https://drive.google.com/file/d/1P1Sio6Rfs_9aqMVqDLmJNUpp5Vg1rQbJ/view?usp=sharing)
 
 # isotoxic abundances via linear Sn + epsilon
-plot_linear_sn_plus_epsilon.ipynb computes the isotoxic (x = p or n) abundances via a linear Sn and a spike function which is called epsilon. This files ahows that all of the Sn distribution can be regarded as linear Sn and a spike function. You can also define your own epsilon function to see how the abundance curve transfers from a Gaussian to your curve. You can also run this file on [Google colab](https://drive.google.com/file/d/1DxlMDW3nDyda_cV8JiKZrnUjSX56bF8s/view?usp=sharing) 
+plot_linear_sn_plus_epsilon.ipynb computes the isotoxic (x = p or n) abundances via a linear Sn and a spike function which is called epsilon. This files ahows that all of the Sn distribution can be regarded as linear Sn and a spike function. You can also define your own epsilon function to see how the abundance curve transfers from a Gaussian to your curve. You can also run this file on [Google colab](https://colab.research.google.com/drive/17hBxrrAgcUtaGdCZFO1DYH7aKG3D3AX9?usp=sharing) 
 
 
 
