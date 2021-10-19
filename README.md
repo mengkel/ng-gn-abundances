@@ -11,5 +11,6 @@ If you would like to see the isotonic abundances distribution computed from the 
 # isotoxic abundances via linear Sn + epsilon
 plot_linear_sn_plus_epsilon.ipynb computes the isotoxic (x = p or n) abundances via a linear Sn and a spike function which is called epsilon. This files ahows that all of the Sn distribution can be regarded as linear Sn and a spike function. You can also define your own epsilon function to see how the abundance curve transfers from a Gaussian to your curve. You can also run this file on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17hBxrrAgcUtaGdCZFO1DYH7aKG3D3AX9?usp=sharing) 
 
-
+# r-process path movement
+We define the r-process path in this way: at any given time, for each element with proton number Z, there is an isotope with maximum abundance; the collection of all such isotopes forms the path at that time. The last file shows the movement of the r process path when the temperature drops and the neutron number density decreases. In our model, we used the model data(Yn and T_9). If anyone needs to test their own trajactory data, they can input their data in this file. The instructions are inside this notebook.  
 
