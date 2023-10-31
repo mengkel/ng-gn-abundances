@@ -1,5 +1,7 @@
 # ng-gn-abundances
 This is a detailed description of r-process ng-gn equilibrium phase isotopic abundances calculation. If you would like to see our simple model, you can run this notebook on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mengkel/ng-gn-abundances/blob/main/plot_ng_abunds_model.ipynb).
+Another available source for running those files without a google account is [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mengkel/ng-gn-abundances/HEAD)
+
 If you would like to see the isotopic abundances distribution computed from the neutron separation energy (REACLIB 2.0 datatbase), you can run the notebook plot_ng_abunds_with_sn_data.ipynb or you can run  this on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mengkel/ng-gn-abundances/blob/main/plot_ng_abunds_with_sn_data.ipynb)
 
 # pg-gp-abundances
